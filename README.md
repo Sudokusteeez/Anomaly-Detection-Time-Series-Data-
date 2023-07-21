@@ -42,9 +42,8 @@ Volatility Shift-based Anomaly Detection:
 File: volatility_shift_anomaly_detection.py
 Description: This script applies volatility shift-based anomaly detection on the monthly gas price data.
 Output: A plot with detected anomalies marked in red.
-Notes
-The adtk library is utilized to perform anomaly detection. Each script demonstrates a different technique, showcasing versatility in handling time series data.
-The code is well-documented and follows Python best practices for readability and maintainability.
+
+
 Disclaimer
 This repository is intended for educational and demonstrative purposes. The anomaly detection techniques and data used may not be suitable for real-world cybersecurity applications without further refinement and domain-specific considerations.
 
