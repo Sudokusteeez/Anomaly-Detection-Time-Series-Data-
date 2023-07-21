@@ -13,18 +13,13 @@ Requirements
 Python 3.x
 Libraries: pandas, matplotlib, yfinance, adtk
 
-Installation
-Clone this repository to your local machine using Git:
-
-git clone https://github.com/your_username/cybersecurity-portfolio.git
+Instructions
 Install the required libraries:
 
 pip install pandas matplotlib yfinance adtk
 
-Instructions
 Download the dataset: monthly_gas_csv.csv and place it in the "data" folder of the repository.
 Run the Jupyter notebooks or Python scripts to see the anomaly detection techniques in action.
-
 
 Usage
 Threshold-based Anomaly Detection:
