@@ -1,4 +1,4 @@
-# Anomaly-Detection-Time-Series-Data-
+# Anomaly-Detection-Time-Series-Data
 
 Overview
 This repository showcases my skills in anomaly detection using time series data and Python. The project demonstrates various anomaly detection techniques applied to monthly gas price data obtained from a CSV file. The analysis involves using the adtk (Anomaly Detection Toolkit) library along with other popular libraries like pandas, matplotlib, and yfinance.
