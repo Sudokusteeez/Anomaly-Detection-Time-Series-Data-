@@ -52,4 +52,4 @@ MIT License
 
 # Enhancements:
 
-The script has also been modified to include Interquartile anomalies and Persistent anomalies that persist over time.
+The script has also been modified locally to include Interquartile anomalies and Persistent anomalies that persist over time. 
